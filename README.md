@@ -2,4 +2,4 @@
 Triggering first scan! Fail.
 Triggering second scan!
 Triggering 7th scan!
-I'm checking the scanning pipeline.
+I'm checking the scanning pipeline!
