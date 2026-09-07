@@ -1,2 +1,3 @@
 # exasol-mcp-server
-Triggering first scan!
+Triggering first scan! Fail.
+Triggering second scan!
