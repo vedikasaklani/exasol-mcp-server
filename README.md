@@ -7,3 +7,4 @@ hi
 hi testing the scan pipeline
 test
 testing token exchange
+testing pem normalization
