@@ -9,4 +9,3 @@ testing token exchange
 testing pem normalizationnn
 !!hi
 hi
-docker checkk
