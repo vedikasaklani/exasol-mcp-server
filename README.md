@@ -11,7 +11,6 @@ hi
 after transition fix hi hi
 yay
 hi
-hi
 wow
 omg
 omg
