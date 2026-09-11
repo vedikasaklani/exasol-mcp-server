@@ -10,7 +10,6 @@ try
 after transition fix hi hi
 yay
 hi
-wow
 om
 help
 haah
