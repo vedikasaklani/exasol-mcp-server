@@ -13,7 +13,6 @@ after transition fix hi hi
 yay
 hi
 wow
-omg
 om
 help
 haah
