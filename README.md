@@ -8,7 +8,6 @@ hi testing the scan pipeline
 testing token exchange
 try
 after transition fix hi hi
-yay
 hi
 om
 help
