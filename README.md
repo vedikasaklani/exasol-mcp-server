@@ -4,7 +4,6 @@ Triggering second scan!
 I'm checking the scanning pipeline!
 test test test
 hi is this working
-hi testing the scan pipeline
 testing token
 hi 
 hi
