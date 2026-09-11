@@ -14,5 +14,5 @@ yay
 hi
 wow
 omg
-omg
+om
 help
