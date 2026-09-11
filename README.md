@@ -5,7 +5,7 @@ I'm checking the scanning pipeline!
 test test test
 hi testing the scan pipeline
 
-testing token exchange
+testing token
 try
 after transition fix hi hi
 hi
