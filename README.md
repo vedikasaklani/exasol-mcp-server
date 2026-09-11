@@ -8,8 +8,6 @@ hi testing the scan pipeline
 testing token
 try
 after transition fix hi hi
-hi
-om
-help
+hi help
 haah
 hello
