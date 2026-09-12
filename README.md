@@ -1,3 +1,4 @@
 # exasol-mcp-server
 Proxy is integerated!
-running after exasol 
+running after exasol!
+1
