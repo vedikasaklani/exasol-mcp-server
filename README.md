@@ -1,2 +1,2 @@
 # exasol-mcp-server
-Triggering second scan
+Proxy is integerated
