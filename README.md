@@ -1,2 +1,2 @@
 # exasol-mcp-server
-Triggering second scan!
+Triggering second scan
