@@ -1,7 +1,6 @@
 """MCP server tools to provide to external clients"""
 import json
 import os
-
 from fastapi import HTTPException
 from fastmcp import FastMCP
 from fastmcp.server.auth.providers.workos import AuthKitProvider
